@@ -1,0 +1,28 @@
+{
+  "name": "jstraining",
+  "version": "1.0.0",
+  "description": "test heroku deploy",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wildergonzo/jsheroku.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "angular"
+  ],
+  "author": "wilder",
+  "license": "ISC",
+}
